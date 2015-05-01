@@ -4,7 +4,7 @@ The source of GitLab Community Edition is [hosted on GitLab.com](https://gitlab.
 
 # ![logo](https://about.gitlab.com/images/gitlab_logo.png) GitLab
 
-## Open source software to collaborate on code
+## Open source software to collaborate on code   
 
 ![Animated screenshots](https://about.gitlab.com/images/animated/compiled.gif)
 
